@@ -1,2 +1,2 @@
 # Cricket-Data-Analytics
-![Tableau Dashboard](
+![Power BI](https://github.com/Rui-Huang-dotcom/Cricket-Data-Analytics/blob/main/Pic)
